@@ -2,3 +2,5 @@ VariablesTask.java
  VariablesTask
 PirmasFailas.java
  PirmasFailas
+areaOfTriangle.java
+ areaOfTriangle
