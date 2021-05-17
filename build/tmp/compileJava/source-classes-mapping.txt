@@ -1,14 +1,10 @@
 averageValue.java
  averageValue
-findNumbers.java
- findNumbers
 sortArray.java
  sortArray
 areaOfTriangle.java
  areaOfTriangle
-PirmasFailas.java
- PirmasFailas
-test.java
- test
 triangle.java
  triangle
+PirmasFailas.java
+ PirmasFailas
