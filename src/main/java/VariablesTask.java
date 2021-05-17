@@ -12,7 +12,7 @@ public class VariablesTask {
                 System.out.println("Lygiakrastis");
             } else if (a == b || b == c || a == c) {
                 System.out.println("Lygiasonis");
-        } else if (a != b && b != c) {
+            } else {
                 System.out.println("Ivairiakrastis");
             }
         } else {
