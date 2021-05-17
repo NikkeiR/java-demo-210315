@@ -1,12 +1,14 @@
 averageValue.java
  averageValue
-VariablesTask.java
- VariablesTask
-PirmasFailas.java
- PirmasFailas
+findNumbers.java
+ findNumbers
 sortArray.java
  sortArray
 areaOfTriangle.java
  areaOfTriangle
-findNumbers.java
- findNumbers
+PirmasFailas.java
+ PirmasFailas
+test.java
+ test
+triangle.java
+ triangle
