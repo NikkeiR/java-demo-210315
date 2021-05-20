@@ -1,10 +1,39 @@
-averageValue.java
- averageValue
-sortArray.java
- sortArray
-areaOfTriangle.java
- areaOfTriangle
-triangle.java
- triangle
-PirmasFailas.java
- PirmasFailas
+lt/bit/intro/AntrasJava.java
+ lt.bit.intro.AntrasJava
+lt/bit/intro/KlasesDemo.java
+ lt.bit.intro.KlasesDemo
+ lt.bit.intro.Man
+ lt.bit.intro.Product
+lt/bit/p0520/ManoDidelisSkaicius.java
+ lt.bit.p0520.ManoDidelisSkaicius
+lt/bit/p0520/Product.java
+ lt.bit.p0520.Product
+lt/bit/intro/Uzdavinys1.java
+ lt.bit.intro.Uzdavinys1
+lt/bit/intro/PirmasFailas.java
+ lt.bit.intro.PirmasFailas
+lt/bit/intro/Mokytojas.java
+ lt.bit.intro.Mokytojas
+lt/bit/intro/UzdavinysSachmatai.java
+ lt.bit.intro.ManoDidelisSkaicius
+ lt.bit.intro.UzdavinysSachmatai
+lt/bit/p0520/LygiavimoUzdavinys.java
+ lt.bit.p0520.LygiavimoUzdavinys
+lt/bit/p0520/ProductService.java
+ lt.bit.p0520.ProductService
+lt/bit/intro/Uzdavinys2.java
+ lt.bit.intro.Uzdavinys2
+lt/bit/intro/Zmogus.java
+ lt.bit.intro.Zmogus
+lt/bit/intro/Mokykla.java
+ lt.bit.intro.Mokykla
+lt/bit/intro/UzdavinysTobuliSkaiciai.java
+ lt.bit.intro.UzdavinysTobuliSkaiciai
+lt/bit/intro/Mokinys.java
+ lt.bit.intro.Mokinys
+lt/bit/p0520/demo/Square.java
+ lt.bit.p0520.demo.Square
+lt/bit/p0520/demo/Figura.java
+ lt.bit.p0520.demo.Figura
+lt/bit/p0520/demo/KlasesDemo.java
+ lt.bit.p0520.demo.KlasesDemo
